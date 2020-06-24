@@ -1,6 +1,7 @@
 # 表示忽略 node_modules 文件夹
 /node_modules
 
+# 已经上传过的，不能忽略
 index.less
 # 忽略test目录下所有的文件
 # test/
